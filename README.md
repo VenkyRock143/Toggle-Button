@@ -6,9 +6,6 @@ This repository contains a simple web application that demonstrates a toggle but
 - Toggle button that changes state when clicked.
 - Visual representation of the button's state (on/off).
 
-## Live Demo
-Access the live application [here](https://venkyrock143.github.io/Toggle-Button/).
-
 ## File Structure
 - `index.html`: Main HTML file.
 - `styles.css`: Styling for the application.
